@@ -1,0 +1,9 @@
+name: PDGHFake
+main: me.mchiappinam.pdghfake.Main
+version: 1.0
+author: mchiappinam
+website: http://pdgh.com.br/
+commands:
+   fake:
+      description: Info.
+      usage: /<command>
